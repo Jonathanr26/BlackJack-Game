@@ -11,3 +11,6 @@ Para la realización de este juego se utilizaron los siguientes temas:
 -Crear imágenes en la página
 
 -Realizar la lógica para implementar un competidor de cartas.
+
+Link para jugar:
+https://jonathanr26.github.io/BlackJack-Game/
